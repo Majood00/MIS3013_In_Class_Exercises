@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_1", "Var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_2", "Variables_Exercise_2\Variables_Exercise_2.csproj", "{A49ABDF2-6A90-4364-B2BF-84828C64A421}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_3", "Variables_Exercise_3\Variables_Exercise_3.csproj", "{E097BE8E-C293-4C3C-8D4F-2EB33833EF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_4", "Variables_Exercise_4\Variables_Exercise_4.csproj", "{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A49ABDF2-6A90-4364-B2BF-84828C64A421}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A49ABDF2-6A90-4364-B2BF-84828C64A421}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A49ABDF2-6A90-4364-B2BF-84828C64A421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E097BE8E-C293-4C3C-8D4F-2EB33833EF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E097BE8E-C293-4C3C-8D4F-2EB33833EF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E097BE8E-C293-4C3C-8D4F-2EB33833EF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E097BE8E-C293-4C3C-8D4F-2EB33833EF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
