@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_1", "Variables_Exercise_1\Variables_Exercise_1.csproj", "{D0B85658-C31C-45C6-96E5-5D0B056EFCC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_Exercise_1", "Variables_Exercise_1\Variables_Exercise_1.csproj", "{D0B85658-C31C-45C6-96E5-5D0B056EFCC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_2", "Variables_Exercise_2\Variables_Exercise_2.csproj", "{A49ABDF2-6A90-4364-B2BF-84828C64A421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_Exercise_2", "Variables_Exercise_2\Variables_Exercise_2.csproj", "{A49ABDF2-6A90-4364-B2BF-84828C64A421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_3", "Variables_Exercise_3\Variables_Exercise_3.csproj", "{E097BE8E-C293-4C3C-8D4F-2EB33833EF6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_Exercise_3", "Variables_Exercise_3\Variables_Exercise_3.csproj", "{E097BE8E-C293-4C3C-8D4F-2EB33833EF6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Exercise_4", "Variables_Exercise_4\Variables_Exercise_4.csproj", "{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_Exercise_4", "Variables_Exercise_4\Variables_Exercise_4.csproj", "{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow_Control_Exercise_1", "Flow_Control_Exercise_1\Flow_Control_Exercise_1.csproj", "{0B3E9074-0902-4EFA-9310-F7D3362B97CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C3EE29A-11E0-4C04-AB7B-086A5FD54B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3E9074-0902-4EFA-9310-F7D3362B97CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3E9074-0902-4EFA-9310-F7D3362B97CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3E9074-0902-4EFA-9310-F7D3362B97CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3E9074-0902-4EFA-9310-F7D3362B97CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
