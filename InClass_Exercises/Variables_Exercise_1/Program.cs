@@ -18,7 +18,7 @@ namespace Variables_Exercise_1
 
             double netIncome = monthlyIncome - monthlyExpense;
 
-            Console.WriteLine($"The difference between your income and expenses is {netIncome}.");
+            Console.WriteLine($"The difference between your income and expenses is {netIncome.ToString("c2")}.");
 
         }
     }
