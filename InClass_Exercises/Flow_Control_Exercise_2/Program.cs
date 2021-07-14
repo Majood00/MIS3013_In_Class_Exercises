@@ -30,7 +30,6 @@ namespace Flow_Control_Exercise_2
             {
                 Console.WriteLine(number);
             }
-
         }
     }
 }
