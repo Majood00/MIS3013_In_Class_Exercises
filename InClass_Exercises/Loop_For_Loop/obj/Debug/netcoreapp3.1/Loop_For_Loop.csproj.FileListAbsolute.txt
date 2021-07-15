@@ -1,0 +1,12 @@
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\bin\Debug\netcoreapp3.1\Loop_For_Loop.exe
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\bin\Debug\netcoreapp3.1\Loop_For_Loop.deps.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\bin\Debug\netcoreapp3.1\Loop_For_Loop.runtimeconfig.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\bin\Debug\netcoreapp3.1\Loop_For_Loop.runtimeconfig.dev.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\bin\Debug\netcoreapp3.1\Loop_For_Loop.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\bin\Debug\netcoreapp3.1\Loop_For_Loop.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\obj\Debug\netcoreapp3.1\Loop_For_Loop.AssemblyInfoInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\obj\Debug\netcoreapp3.1\Loop_For_Loop.AssemblyInfo.cs
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\obj\Debug\netcoreapp3.1\Loop_For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\obj\Debug\netcoreapp3.1\Loop_For_Loop.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\obj\Debug\netcoreapp3.1\Loop_For_Loop.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loop_For_Loop\obj\Debug\netcoreapp3.1\Loop_For_Loop.genruntimeconfig.cache
