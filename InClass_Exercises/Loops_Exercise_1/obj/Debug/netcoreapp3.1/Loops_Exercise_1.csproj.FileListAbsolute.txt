@@ -10,3 +10,4 @@ C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercise
 C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loops_Exercise_1\obj\Debug\netcoreapp3.1\Loops_Exercise_1.dll
 C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loops_Exercise_1\obj\Debug\netcoreapp3.1\Loops_Exercise_1.pdb
 C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loops_Exercise_1\obj\Debug\netcoreapp3.1\Loops_Exercise_1.genruntimeconfig.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Loops_Exercise_1\obj\Debug\netcoreapp3.1\Loops_Exercise_1.csproj.AssemblyReference.cache
