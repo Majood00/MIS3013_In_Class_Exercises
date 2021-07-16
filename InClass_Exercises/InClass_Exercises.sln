@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow_Control_Exercise_2", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow_Control_Exercise_3", "Flow_Control_Exercise_3\Flow_Control_Exercise_3.csproj", "{80FB2EA2-D1A4-4132-B108-09325C755E0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow_Control_Exercise_4", "Flow_Control_Exercise_4\Flow_Control_Exercise_4.csproj", "{B0A7BF8E-EEE7-4AC8-A234-FDFF77E0F2E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow_Control_Exercise_4", "Flow_Control_Exercise_4\Flow_Control_Exercise_4.csproj", "{B0A7BF8E-EEE7-4AC8-A234-FDFF77E0F2E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_Exercise_1", "Loops_Exercise_1\Loops_Exercise_1.csproj", "{25338F37-FC48-44DE-BB4A-D17157CB134B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_Exercise_1", "Loops_Exercise_1\Loops_Exercise_1.csproj", "{25338F37-FC48-44DE-BB4A-D17157CB134B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_While_Loop", "Loops_While_Loop\Loops_While_Loop.csproj", "{F54715D6-4FB1-4B2A-8254-925007A049C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_While_Loop", "Loops_While_Loop\Loops_While_Loop.csproj", "{F54715D6-4FB1-4B2A-8254-925007A049C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_Do", "Loops_Do\Loops_Do.csproj", "{6B586683-A0DE-4242-8DDF-A29346DCB337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_Do", "Loops_Do\Loops_Do.csproj", "{6B586683-A0DE-4242-8DDF-A29346DCB337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_For_Loop", "Loop_For_Loop\Loop_For_Loop.csproj", "{F4F9F2DB-8E7F-45C5-BF14-722F64BBA5DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_For_Loop", "Loop_For_Loop\Loop_For_Loop.csproj", "{F4F9F2DB-8E7F-45C5-BF14-722F64BBA5DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_Exercise_2", "Loops_Exercise_2\Loops_Exercise_2.csproj", "{1D23B13E-A895-49DF-8DC8-D50A5D17BA08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{F4F9F2DB-8E7F-45C5-BF14-722F64BBA5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4F9F2DB-8E7F-45C5-BF14-722F64BBA5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4F9F2DB-8E7F-45C5-BF14-722F64BBA5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D23B13E-A895-49DF-8DC8-D50A5D17BA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D23B13E-A895-49DF-8DC8-D50A5D17BA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D23B13E-A895-49DF-8DC8-D50A5D17BA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D23B13E-A895-49DF-8DC8-D50A5D17BA08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
