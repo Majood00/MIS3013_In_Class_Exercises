@@ -8,6 +8,10 @@ namespace Strings_Example_2
         {
             string names = "Scooby Christina JENN clarke";
 
+            string name1 = names.Substring(0);
+
+            Console.WriteLine(name1);
+
 
         }
     }
