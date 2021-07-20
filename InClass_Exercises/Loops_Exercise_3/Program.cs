@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Loop_Exercise_3
+namespace Loops_Exercise_3
 {
     class Program
     {
