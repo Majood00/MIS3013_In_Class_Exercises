@@ -26,7 +26,7 @@ namespace Flow_Control_Exercise_4
                     break;
             }
 
-            Console.WriteLine("Please enter an integer between 37 32,000.");
+            Console.WriteLine("Please enter an integer between 37 & 32,000.");
             string input = Console.ReadLine();
             //int input1 = Convert.ToInt32(input);
             int input1;

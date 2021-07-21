@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Strings_Example_2\\Strings_Example_2.csproj",
+      "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Strings_Example_2\\Strings_Example_2.csproj",
       "projectName": "Strings_Example_2",
-      "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Strings_Example_2\\Strings_Example_2.csproj",
+      "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Strings_Example_2\\Strings_Example_2.csproj",
       "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Strings_Example_2\\obj\\",
+      "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Strings_Example_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
