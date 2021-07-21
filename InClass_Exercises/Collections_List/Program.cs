@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Collections_List
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<double> data = new List<double>();
+
+            data.Add(382.28);
+            data.Add(39.28);
+            data.Add(2892);
+
+            double sum = 0;
+            foreach (double item in data)
+            {
+                sum += item;
+                Console.WriteLine(item);
+            }
+
+            sum = 0;
+            for (int i = 0; i < data.Count; i++)
+            {
+                sum += data[i];
+            }
+            Console.WriteLine($"\nThe sume of all the numbers is {sum.ToString("N3")}");
+
+            /*foreach (double item in data)
+            {
+                Console.WriteLine(item);
+            }*/
+
+        }
+    }
+}
