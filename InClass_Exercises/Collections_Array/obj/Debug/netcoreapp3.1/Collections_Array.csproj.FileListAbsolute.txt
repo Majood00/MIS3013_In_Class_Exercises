@@ -1,0 +1,12 @@
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\bin\Debug\netcoreapp3.1\Collections_Array.exe
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\bin\Debug\netcoreapp3.1\Collections_Array.deps.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\bin\Debug\netcoreapp3.1\Collections_Array.runtimeconfig.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\bin\Debug\netcoreapp3.1\Collections_Array.runtimeconfig.dev.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\bin\Debug\netcoreapp3.1\Collections_Array.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\bin\Debug\netcoreapp3.1\Collections_Array.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\obj\Debug\netcoreapp3.1\Collections_Array.AssemblyInfoInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\obj\Debug\netcoreapp3.1\Collections_Array.AssemblyInfo.cs
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\obj\Debug\netcoreapp3.1\Collections_Array.csproj.CoreCompileInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\obj\Debug\netcoreapp3.1\Collections_Array.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\obj\Debug\netcoreapp3.1\Collections_Array.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_Array\obj\Debug\netcoreapp3.1\Collections_Array.genruntimeconfig.cache
