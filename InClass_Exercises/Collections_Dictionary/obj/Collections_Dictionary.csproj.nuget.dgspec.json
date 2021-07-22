@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj": {}
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj": {
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj",
         "projectName": "Collections_Dictionary",
-        "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj",
+        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\Collections_Dictionary.csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
