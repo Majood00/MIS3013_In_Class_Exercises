@@ -8,7 +8,7 @@ namespace Collections_Dictionary
         static void Main(string[] args)
         {
             Dictionary<int, string> students = new Dictionary<int, string>();
-
+            
             students.Add(1, "Joe");
             students.Add(2, "Julie");
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj": {}
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj": {
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj",
         "projectName": "Collections_Array",
-        "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj",
+        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\Collections_Array.csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Collections_Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
