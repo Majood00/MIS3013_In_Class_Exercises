@@ -1,0 +1,12 @@
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\bin\Debug\netcoreapp3.1\Functions_Example_4.exe
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\bin\Debug\netcoreapp3.1\Functions_Example_4.deps.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\bin\Debug\netcoreapp3.1\Functions_Example_4.runtimeconfig.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\bin\Debug\netcoreapp3.1\Functions_Example_4.runtimeconfig.dev.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\bin\Debug\netcoreapp3.1\Functions_Example_4.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\bin\Debug\netcoreapp3.1\Functions_Example_4.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\obj\Debug\netcoreapp3.1\Functions_Example_4.AssemblyInfoInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\obj\Debug\netcoreapp3.1\Functions_Example_4.AssemblyInfo.cs
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\obj\Debug\netcoreapp3.1\Functions_Example_4.csproj.CoreCompileInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\obj\Debug\netcoreapp3.1\Functions_Example_4.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\obj\Debug\netcoreapp3.1\Functions_Example_4.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Functions_Example_4\obj\Debug\netcoreapp3.1\Functions_Example_4.genruntimeconfig.cache
