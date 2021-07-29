@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Classes_Example_2\\Classes_Example_2.csproj",
-      "projectName": "Classes_Example_2",
-      "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Classes_Example_2\\Classes_Example_2.csproj",
+      "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Classes_Example_2\\Class_Example_2.csproj",
+      "projectName": "Class_Example_2",
+      "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Classes_Example_2\\Class_Example_2.csproj",
       "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Classes_Example_2\\obj\\",
       "projectStyle": "PackageReference",
