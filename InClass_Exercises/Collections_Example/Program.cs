@@ -27,6 +27,7 @@ namespace Collections_Example
 
                 Console.WriteLine("Do you want to enter another number? yes or no?");
                 input = Console.ReadLine();
+
             } while (input.ToLower()[0] == 'y');
 
             numbers.Add(1);
