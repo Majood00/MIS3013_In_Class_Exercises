@@ -10,3 +10,4 @@ C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercise
 C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_List\obj\Debug\netcoreapp3.1\Collections_List.dll
 C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_List\obj\Debug\netcoreapp3.1\Collections_List.pdb
 C:\Users\majdh\Source\Repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_List\obj\Debug\netcoreapp3.1\Collections_List.genruntimeconfig.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_In_Class_Exercises\InClass_Exercises\Collections_List\obj\Debug\netcoreapp3.1\Collections_List.csproj.AssemblyReference.cache

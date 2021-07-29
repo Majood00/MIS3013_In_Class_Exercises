@@ -25,7 +25,7 @@ namespace Collections_List
             {
                 sum += data[i];
             }
-            Console.WriteLine($"\nThe sume of all the numbers is {sum.ToString("N3")}");
+            Console.WriteLine($"\nThe sum of all the numbers is {sum.ToString("N3")}");
 
             /*foreach (double item in data)
             {
