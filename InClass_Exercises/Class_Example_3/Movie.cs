@@ -18,7 +18,30 @@ namespace Class_Example_3
 
             ReleaseYear = 0;
 
-            Genres = new List<string>;
+            Genres = new List<string>();
+        }
+
+        public Movie(string title, int year)
+        {
+            Title = title;
+
+            ReleaseYear = year;
+
+            Genres = new List<string>();
+        }
+
+        public Movie(string title, int year, string[] genres)
+        {
+            Title = title;
+
+            ReleaseYear = year;
+
+            Genres = new List<string>();
+
+            foreach (string genre in genres)
+            {
+                Genres.Add(genre);
+            }
         }
 
         public int Age()
@@ -28,6 +51,28 @@ namespace Class_Example_3
             int age = today.Year - ReleaseYear;
 
             return age;
+        }
+
+        public override string ToString()
+        {
+            string output = "";
+
+            int age = Age();
+
+            switch (age)
+            {
+                case 0:
+                    output = $"{Title} was released in {ReleaseYear} and has the genres of: {string.Join(", ", Genres)}.";
+                    break;
+                case 1:
+                    output = $"{Title} was released in {ReleaseYear} (which makes it {age} year old) and has the genres of: {string.Join(", ", Genres)}.";
+                    break;
+                default:
+                    output = $"{Title} was released in {ReleaseYear} (which makes it {age} years old) and has the genres of: {string.Join(", ", Genres)}.";
+                    break;
+            }
+
+            return output;
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj": {}
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj": {
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj",
         "projectName": "Loop_For_Loop",
-        "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj",
+        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\Loop_For_Loop.csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_In_Class_Exercises\\InClass_Exercises\\Loop_For_Loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
