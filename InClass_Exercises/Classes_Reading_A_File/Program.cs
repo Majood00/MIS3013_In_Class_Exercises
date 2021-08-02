@@ -8,8 +8,6 @@ namespace Classes_Reading_A_File
     {
         static void Main(string[] args)
         {
-
-
             string[] lines = File.ReadAllLines("sales_data_sample.csv");
 
             List<Sale> sales = new List<Sale>();
@@ -25,8 +23,8 @@ namespace Classes_Reading_A_File
                 sales.Add(s);
             }
 
-            //OutputAllSalesFromCountry(sales, "USA");
-            //OutputAllSalesFromCountry(sales, "France");
+            OutputAllSalesFromCountry(sales, "USA");
+            OutputAllSalesFromCountry(sales, "France");
             OutputAllSalesWithAProfit(sales);
             OutputAllSalesWithALoss(sales);
 
