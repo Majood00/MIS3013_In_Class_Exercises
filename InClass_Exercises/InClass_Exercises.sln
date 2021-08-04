@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class_Example_2", "Classes_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class_Example_3", "Class_Example_3\Class_Example_3.csproj", "{3FBC1756-7CB9-46BA-B6F3-32191267E1CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Reading_A_File", "Classes_Reading_A_File\Classes_Reading_A_File.csproj", "{D6E86F6D-EEEF-4650-A90D-50BF61FA9BBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Reading_A_File", "Classes_Reading_A_File\Classes_Reading_A_File.csproj", "{D6E86F6D-EEEF-4650-A90D-50BF61FA9BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_SQLClient", "Data_SQLClient\Data_SQLClient.csproj", "{84A59EAE-F7A2-4508-8AB9-6CD42886CBD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{D6E86F6D-EEEF-4650-A90D-50BF61FA9BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6E86F6D-EEEF-4650-A90D-50BF61FA9BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6E86F6D-EEEF-4650-A90D-50BF61FA9BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A59EAE-F7A2-4508-8AB9-6CD42886CBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A59EAE-F7A2-4508-8AB9-6CD42886CBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A59EAE-F7A2-4508-8AB9-6CD42886CBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A59EAE-F7A2-4508-8AB9-6CD42886CBD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
